@@ -14,6 +14,8 @@
 1. [wolai被阿里收购的背后思考](https://sspai.com/post/78711) 这后面真的有思考嘛？mrl老板算是上岸了，语雀、teambition、wolai，到底谁是家里小宝贝呢？ 
 2. 语雀崩了，同在阿里下面的语雀跟wolai，到底谁更稳定呢？不少同学一致怀疑wolai的用户量。
 
+## 擦边组
+1. [前端小姐姐转行擦边](https://github.com/fishdb/Front-End-Entertainment-Weekly/issues/1)
 # 投稿须知
 1. 注意隐蔽，不要暴露自己
 2. 偷偷提issue，不定期收录整理
