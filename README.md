@@ -6,11 +6,16 @@
 2. 市面上开始陆续流出员工
 3. [从「榜一大哥」快进到被 CEO 全平台拉黑](https://twitter.com/thecalicastle/status/1718500193648386345)
 ## 神光组
+> [知乎传送门](https://www.zhihu.com/people/di-xu-guang-50/posts)
 1. [某叠挂人事件](https://juejin.cn/post/7291547336399552569)
 2. [V社新开贴，二度讨论神光挂人事件](https://www.v2ex.com/t/985358#reply86)
-3. [神光收录仓库](https://github.com/l28939279/god-light) 
+3. [神光收录仓库](https://github.com/l28939279/god-light)
+4. 谣传神光睡粉
+5. 公众号up主借钱，神光损失money数干
 
 ## 132
+1. 说炼铜与Anne互成仇人、与XXX互成仇人
+2. [学到了很多东西, fre框架](https://zhuanlan.zhihu.com/p/336374915)
 
 ## wolai组
 1. [wolai被阿里收购的背后思考](https://sspai.com/post/78711) 这后面真的有思考嘛？mrl老板算是上岸了，语雀、teambition、wolai，到底谁是家里小宝贝呢？ 
