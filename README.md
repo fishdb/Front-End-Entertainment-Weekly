@@ -1,10 +1,11 @@
 # Front-End-Entertainment-Weekly
 前端娱乐周刊
 > 第一刊
-## AFFINE 组
-1. 不好说，不确定，有点乱，从某些层面看到了混乱如不加校验的修改密码后端代码，阴阳怪气的X站对线，以及若隐若现的宫斗大戏。
-2. 市面上开始陆续流出员工
-3. [从「榜一大哥」快进到被 CEO 全平台拉黑](https://twitter.com/thecalicastle/status/1718500193648386345)
+## AFFINE 组(原投光)
+1. [一次资本的入局](https://mp.weixin.qq.com/s/Kk0RK5bqvzQ98HaNqMveKg)
+2. 不好说，不确定，有点乱，从某些层面看到了混乱如不加校验的修改密码后端代码，阴阳怪气的X站对线，以及若隐若现的宫斗大戏。
+3. 市面上开始陆续流出员工
+4. [从「榜一大哥」快进到被 CEO 全平台拉黑](https://twitter.com/thecalicastle/status/1718500193648386345)
 ## 神光组
 > [知乎传送门](https://www.zhihu.com/people/di-xu-guang-50/posts)
 1. [某叠挂人事件](https://juejin.cn/post/7291547336399552569)
