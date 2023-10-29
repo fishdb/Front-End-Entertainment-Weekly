@@ -10,6 +10,8 @@
 2. [V社新开贴，二度讨论神光挂人事件](https://www.v2ex.com/t/985358#reply86)
 3. [神光收录仓库](https://github.com/l28939279/god-light) 
 
+## 132
+
 ## wolai组
 1. [wolai被阿里收购的背后思考](https://sspai.com/post/78711) 这后面真的有思考嘛？mrl老板算是上岸了，语雀、teambition、wolai，到底谁是家里小宝贝呢？ 
 2. 语雀崩了，同在阿里下面的语雀跟wolai，到底谁更稳定呢？不少同学一致怀疑wolai的用户量。
